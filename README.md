@@ -1,4 +1,4 @@
-# game
+# This is a simple Game build in Vuejs
 
 ## Project setup
 ```
